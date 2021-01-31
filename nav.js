@@ -15,8 +15,8 @@ document.write(
 '    <ul id="navigation">'+
 '        <li><a href="index.html">Home</a></li>'+
 '        <li><a href="bio.html">Biography</a></li>'+
-'        <li><a href="research.html">Research</a></li>'+
 '        <li><a href="teaching.html">Teachings</a></li>'+
+'        <li><a href="research.html">Research</a></li>'+
 '    </ul>'+
 '    </div>'
 );
