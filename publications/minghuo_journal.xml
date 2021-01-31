@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<file xmlns="http://bibtexml.sf.net/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:date>2013-02-12T14:43:59-0600</dc:date>
+    <dc:format>text/xml</dc:format>
+    <dc:identifier>urn:uuid:d2e2d227-5f85-485d-bd9f-e88b450a0e3c</dc:identifier>
+  </metadata>
+  
+  <entry id="huo2021">
+    <article>
+      <author>Huo, Ming</author>
+      <author>Wu, Zhijian</author>
+      <title>Composition Operators on Weighted Spaces of Analytic Functions
+      </title>
+      <journal>In preprint</journal>
+      <volume></volume>
+      <pages></pages>
+      <year>2021</year>
+      <url></url>
+      </article>
+  </entry>
+	
+</file>
+
